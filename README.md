@@ -1,4 +1,4 @@
-# GM Hackers (Web3Inbox, Next.js, wagmi, React, TypeScript)
+Hacking wallet with just a few minutes # GM Hackers (Web3Inbox, Next.js, wagmi, React, TypeScript)
 
 🔗 Live dapp demo - https://hackers.gm.walletconnect.com/  
 📚 WalletConnect Web3Inbox Docs - https://docs.walletconnect.com/2.0/web3inbox/core-components/usage
